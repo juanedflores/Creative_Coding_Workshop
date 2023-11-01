@@ -1,0 +1,9 @@
+function setup() {
+  createCanvas(500, 500);
+}
+
+function draw() {
+  background(200);
+  strokeWeight(4);
+  point(random(500), random(500));
+}
