@@ -1,7 +1,7 @@
 let img;
 
 function preload() {
-  img = loadImage('/assets/cat.jpg');
+  img = loadImage('/Creative_Coding_Workshop/assets/cat.jpg');
 }
 
 function setup() {
