@@ -70,8 +70,8 @@ I want to challenge the idea that creative coding has to be digital. This is a w
 ---
 
 <!-- .slide: class="uk-width-1-1 uk-column-1-2 uk-column-divider uk-vertical-align-middle" -->  
-<img src="/assets/paper1.jpg" style="width: 800px"></img> <!-- .element: style="margin: 0;" -->
-<img src="/assets/paper2.jpg" style="width: 800px"></img>
+<img src="/Creative_Coding_Workshop/assets/paper1.jpg" style="width: 800px"></img> <!-- .element: style="margin: 0;" -->
+<img src="/Creative_Coding_Workshop/assets/paper2.jpg" style="width: 800px"></img>
 
 ---
 
