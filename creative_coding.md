@@ -18,23 +18,6 @@ You can visit my website to follow along. There is a glossary here that you can 
 
 ---
 
-#### Glossary
-<!-- .slide: class="uk-vertical-align-middle uk-height-large" -->  
-
-<div class="uk-child-width-expand@s uk-column-1-2 uk-column-divider" style="min-height: 300" uk-grid>
-<ul class="uk-list" style="font-size:20px">
-    <li>Variable</li>
-    <li>Conditional Statements</li>
-    <li>For Loop</li>
-    <li>Functions</li>
-</ul>
-</div>
-
-Note:
-You can click on any of these and they will take you to slides that are at the end of this presentation.
-
----
-
 <!-- .slide: class=".uk-width-1-1" -->  
 
 ![Introducing Myself](./assets/intro.jpg) <!-- .element: width="450px;" style="margin: 0;" -->
@@ -47,7 +30,7 @@ In this picture I am doing a practice called live coding, which is a performance
 
 <!-- .slide: class=".uk-width-1-1" -->  
 
-<!-- <iframe width="800" height="515" src="https://www.youtube.com/embed/JOIkOTJrUXk?si=kCR4bT7DgsDYtUER&amp;controls=0?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="800" height="515" src="https://www.youtube.com/embed/JOIkOTJrUXk?si=kCR4bT7DgsDYtUER&amp;controls=0?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Note:
 This is an example of what that could look like. This one was part of an online event where the performances were livestreamed. This was a collaboration with a friend from Mexico City. He was in charge of the sound while I was in charge of the visuals. In this example it's just a 3D shape that reacts to the sound and I am manipulating the geometry.
@@ -57,7 +40,7 @@ This is an example of what that could look like. This one was part of an online 
 
 <!-- .slide: class=".uk-width-1-1" -->  
 
-<!-- <iframe width="800" height="515" src="https://www.youtube.com/embed/U-XL7DiRlFc?si=VPVSVeugYhi4KzvV&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="800" height="515" src="https://www.youtube.com/embed/U-XL7DiRlFc?si=VPVSVeugYhi4KzvV&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Note:
 And of course it does not have to be live. This one was a website that someone could visit that would programmatically play videos of this communication between me and my collaborator. This was during the pandemic, and we tried to show our remote locations. While the videos are playing the background shows satelling photos of the cities where we were located. These were actually grabbed programmatically from NASA using something called an API, which is something that I want to cover today. In short, it is possible to grab from a huge repository of data and use it in your projects. NASA for example has a huge database of information from satellites, orbits, events, etc. You can also get weather data, facts about cats, wikipedia articles, news, gifs, almost anything.
@@ -78,8 +61,8 @@ I hope that by the very least, we know how to read and write a basic programming
 #### Computing without a Computer
 
 <!-- .slide: class="uk-width-1-1 uk-column-1-2 uk-column-divider uk-vertical-align-middle" -->  
-<img src="/assets/paper1.jpg" style="width: 800px"></img> <!-- .element: style="margin: 0;" -->
-<img src="/assets/walk_photo2.png" style="width: 300px"></img>
+<img src="/Creative_Coding_Workshop/assets/paper1.jpg" style="width: 800px"></img> <!-- .element: style="margin: 0;" -->
+<img src="/Creative_Coding_Workshop/assets/walk_photo2.png" style="width: 300px"></img>
 
 Note:
 I want to challenge the idea that creative coding has to be digital. This is a work I did recently where I built a contraption that distorts the instructions that I follow for a walk using movement to generate a final image when it's done.
@@ -87,8 +70,8 @@ I want to challenge the idea that creative coding has to be digital. This is a w
 ---
 
 <!-- .slide: class="uk-width-1-1 uk-column-1-2 uk-column-divider uk-vertical-align-middle" -->  
-<img src="/assets/paper1.jpg" style="width: 800px"></img> <!-- .element: style="margin: 0;" -->
-<img src="/assets/paper2.jpg" style="width: 800px"></img>
+<img src="/Creative_Coding_Workshop/assets/paper1.jpg" style="width: 800px"></img> <!-- .element: style="margin: 0;" -->
+<img src="/Creative_Coding_Workshop/assets/paper2.jpg" style="width: 800px"></img>
 
 ---
 
